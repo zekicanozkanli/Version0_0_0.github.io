@@ -18747,3 +18747,118 @@ a.text-dark:focus {
 }
 
 /*# sourceMappingURL=style-freedom.css.map */
+
+
+
+/*_________________________________________________________________     WRITTEN BY ME    _________________________________________________________________*/ 
+
+
+.container-1 {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.center {
+  text-align: center !important;
+}
+
+.pad-tnb {
+  padding-top: 2rem !important;
+  padding-bottom: 2rem !important;
+}
+
+.pad-l-5 {
+  padding-left: 5% !important;
+}
+
+.pad-l-10 {
+  padding-left: 10% !important;
+}
+
+.pad-l-15 {
+  padding-left: 15% !important;
+}
+
+.pad-l-20 {
+  padding-left: 20% !important;
+}
+
+.pad-l-25 {
+  padding-left: 25% !important;
+}
+
+.pad-l-30 {
+  padding-left: 30% !important;
+}
+
+.pad-l-35 {
+  padding-left: 35% !important;
+}
+
+.pad-l-40 {
+  padding-left: 40% !important;
+}
+
+.pad-l-45 {
+  padding-left: 45% !important;
+}
+
+.pad-l-50 {
+  padding-left: 50% !important;
+}
+
+.pad-l-55 {
+  padding-left: 55% !important;
+}
+
+.pad-l-60 {
+  padding-left: 60% !important;
+}
+
+.pad-l-65 {
+  padding-left: 65% !important;
+}
+
+.pad-l-70 {
+  padding-left: 70% !important;
+}
+
+.pad-l-75 {
+  padding-left: 75% !important;
+}
+
+/* TEXT STYLE */
+
+.sub-text {
+  font-size: 32px;
+  line-height: 46px;
+  color: #fff;
+  margin-bottom: 24px;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+
+h3.sub-text {
+  color: #fff;
+}
+
+h4.sub-text {
+  color: #fff;
+}
+
+.grdnt-prp-bl-blck {
+  background-image: url(../images/gradient_mp.jpg);
+  z-index: -1;
+}
+
+.photo-plugins {
+  background: url(.../images/ab.jpg);
+  background-position: 100px;
+  background-size: cover;
+  background-attachment: scroll;
+  z-index: 1;
+  min-height: 100vh;
+}
